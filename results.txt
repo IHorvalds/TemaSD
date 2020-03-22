@@ -1,0 +1,11 @@
+Nr of tests: 8
+Nr of elements: 1000000
+Maximum elements: 1000000
+
+count_sort: 439.99183177948 ms
+merge_sort: 7260.993868112564 ms
+quick_sort: 5554.152071475983 ms
+quicksort_inplace: 13570.911020040512 ms
+radix_sort: 2258.4186494350433 ms
+tim_sort: 8379.275679588318 ms
+sorted: 656.4683318138123 ms

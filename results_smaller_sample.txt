@@ -1,0 +1,13 @@
+Nr of tests: 8
+Nr of elements: 1000
+Maximum elements: 1000000
+
+bubble_sort: 81.76136016845703 ms
+count_sort: 71.08986377716064 ms
+insert_sort: 47.987014055252075 ms
+merge_sort: 2.9165446758270264 ms
+quick_sort: 2.226918935775757 ms
+quicksort_inplace: 4.544466733932495 ms
+radix_sort: 0.9528696537017822 ms
+tim_sort: 2.658367156982422 ms
+sorted: 0.10529160499572754 ms
